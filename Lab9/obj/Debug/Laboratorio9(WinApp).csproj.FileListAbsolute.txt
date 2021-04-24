@@ -1,0 +1,152 @@
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).exe.config
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).exe
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).pdb
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csprojAssemblyReference.cache
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.Properties.Resources.resources
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.GenerateResource.cache
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.CoreCompileInputs.cache
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).exe
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).pdb
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\DataReport.mdf
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\DataReport_log.ldf
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\log4net.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\EnvDTE.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\stdole.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\log4net.xml
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.frmPrincipal.resources
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.frmReportes.resources
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\RdlCompile.cache
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\RdlCompile.compiled
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.CopyComplete
+C:\Users\Sazu\source\repos\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.Clientes.resources
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csprojAssemblyReference.cache
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.Clientes.resources
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.frmPrincipal.resources
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.frmReportes.resources
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9_WinApp_.Properties.Resources.resources
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.GenerateResource.cache
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.CoreCompileInputs.cache
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).exe
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).pdb
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\DataReport.mdf
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\DataReport_log.ldf
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).exe.config
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).exe
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Laboratorio9(WinApp).pdb
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\log4net.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\EnvDTE.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\stdole.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\Microsoft.MSXML.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\log4net.xml
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\INTEC\Programacion 3\Laboratorio9(WinApp)\Laboratorio9(WinApp)\obj\Debug\Laboratorio9(WinApp).csproj.CopyComplete
